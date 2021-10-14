@@ -1,0 +1,5 @@
+Fakhrizal Rizky // A11.2019.11850
+
+1. Ya, proses run dan walk di animator berjalan bersama.
+2. Tidak, karena hanya satu dari dua proses yang bisa berjalan. Tidak bisa berbarengan dalam satu proses
+3. Ya, proses keduanya memiliki kesamaan transisi
